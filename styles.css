@@ -83,3 +83,17 @@ header {
     transition: .4s;
     color: #000;
 }
+
+footer {
+	position: absolute;
+	top: 98%;
+	left: 50%;
+	right: 50%;
+	bottom: 0%;
+	width: 100%;
+	max-width: 350px;
+	transform: translate(-50%,-50%);
+    color: #fff;
+    font-family: sans-serif;
+    font-size: 10px;
+}
